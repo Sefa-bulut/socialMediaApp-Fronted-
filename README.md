@@ -5,7 +5,7 @@
         <img src="public/ProjectPictures/screenshot2.png" alt="Resim 2" width="200" height="200">
     </div>
     <div>
-        <img src="public/ProjectPictures/screenshot3.png" alt="Resim 3" width="200" height="200">
-        <img src="public/ProjectPictures/screenshot4.png" alt="Resim 4" width="200" height="200">
+        <img src="public/ProjectPictures/screenshot3.png" alt="Resim 3" style="width: 100%;">
+        <img src="public/ProjectPictures/screenshot4.png" alt="Resim 4" style="width: 100%;">
     </div>
 </div>

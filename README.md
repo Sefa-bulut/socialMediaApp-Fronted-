@@ -1,5 +1,5 @@
 # Resimler
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
     <div style="width: 48%; margin-bottom: 10px;">
         <img src="public/ProjectPictures/screenshot2.png" alt="Resim 1" style="width: 40%; height: auto;">
     </div>

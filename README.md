@@ -12,14 +12,14 @@ QuestionApp, kullanıcıların tartışmalara katılabileceği, içerik paylaşa
 
 ## Projede kullanılan teknolojiler
 
--Spring boot
--React
--MySQL
+- Spring boot
+- React
+- MySQL
 
 ## Note
 
--Frontend linki:
--Backend linki:
+- Frontend linki: https://github.com/Sefa-bulut/socialMediaApp-Fronted-
+- Backend linki:
 
 ### Uygulamadan bazı görseller
 

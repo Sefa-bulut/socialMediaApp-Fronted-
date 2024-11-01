@@ -19,9 +19,9 @@ QuestionApp, kullanıcıların tartışmalara katılabileceği, içerik paylaşa
 ## Note
 
 - Frontend linki: https://github.com/Sefa-bulut/socialMediaApp-Fronted-
-- Backend linki:
+- Backend linki: https://github.com/Sefa-bulut/socialMediaApp-Backend-
 
-### Uygulamadan bazı görseller
+### Uygulama Hakkında Bazı Görseller
 
 <div style="display: flex">
     <div style="width: 48%; margin-bottom: 10px; display: flex; justify-content: center; align-items: center;">

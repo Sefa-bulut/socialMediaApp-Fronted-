@@ -10,18 +10,18 @@ QuestionApp, kullanıcıların tartışmalara katılabileceği, içerik paylaşa
 - **Arama İşlevselliği:** Gönderileri ve tartışmaları kolayca bul.
 - **Responsive Design** Hem masaüstü hem de mobil cihazlar için optimize edilmiştir.
 
-### Projede kullanılan teknolojiler
+## Projede kullanılan teknolojiler
 
 -Spring boot
 -React
 -MySQL
 
-### Note
+## Note
 
 -Frontend linki:
 -Backend linki:
 
-### Uygulamdan bazı görseller
+### Uygulamadan bazı görseller
 
 <div style="display: flex">
     <div style="width: 48%; margin-bottom: 10px; display: flex; justify-content: center; align-items: center;">
